@@ -1,4 +1,4 @@
-# 🩺 MedGemma 3.5 (4B) — Portable AI Medical Assistant
+# 🩺 Gemma 3.5 (4B) — Portable AI Medical Assistant
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fine--Tuned%20With-QLoRA-blueviolet?style=for-the-badge&logo=nvidia" alt="QLoRA">
