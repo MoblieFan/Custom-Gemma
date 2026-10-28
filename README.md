@@ -41,7 +41,7 @@ To ensure smooth local execution without memory issues or system throttling (e.g
 The model was trained, merged, and packaged using an end-to-end local machine learning workflow:
 
 ```text
-[Raw Gemma 3.5 4B]
+[Raw Gemma 3.6 4B]
        │
        ├──> 🧬 4-bit QLoRA Training (bitsandbytes / PyTorch / CUDA on RTX 3060 12GB)
        │
