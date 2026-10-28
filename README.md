@@ -1,4 +1,4 @@
-# Gemma 3.5 (4B) — Portable AI Medical Assistant
+# Gemma 3.6 (4B) — Portable AI Assistant
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fine--Tuned%20With-QLoRA-blueviolet?style=for-the-badge&logo=nvidia" alt="QLoRA">
@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-**Gemma 3.5 (4B Medical Edition)** is a specialized, fine-tuned variant built on top of **Google's Gemma 3.5 (4B)** architecture. Optimized locally using 4-bit QLoRA on NVIDIA hardware, merged, and converted to high-efficiency GGUF format, it is engineered to run as a fast, fully offline, privacy-focused medical assistant on mobile devices (**iOS & Android**) and local edge environments.
+**Gemma 3.6 (4B)** is a specialized, fine-tuned variant built on top of **Google's Gemma 3.5 (4B)** architecture. Optimized locally using 4-bit QLoRA on NVIDIA hardware, merged, and converted to high-efficiency GGUF format, it is engineered to run as a fast, fully offline, privacy-focused medical assistant on mobile devices (**iOS & Android**) and local edge environments.
 
 ---
 
